@@ -1,11 +1,13 @@
-####Product Name: Version: 
-####Build Date: 
-####Bug Description:
+*Product Name: 
+*Version: 
+*Build Date: 
 
-####Actual Behavior Error:
+*Bug Description:
 
-####Steps to Reproduce:
+*Actual Behavior Error:
 
-####Expected Behavior:
+*Steps to Reproduce:
 
-####Put Screenshot(if any):
+*Expected Behavior:
+
+*Screenshot(if any):
