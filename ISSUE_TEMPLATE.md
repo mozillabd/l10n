@@ -1,3 +1,7 @@
+
+[comment]: To know about your Firefox version and build date go to settings-> Mozilla Aurora-> About Auroa.
+
+
 * **Product Name**: 
 * **Version**: 
 * **Build Date**: 
@@ -5,4 +9,4 @@
 * **Actual Behavior (Error)**:
 * **Steps to Reproduce**:
 * **Expected Behavior**:
-* **Screenshot(if any)**:
+* **Screen shot(if any)**:
