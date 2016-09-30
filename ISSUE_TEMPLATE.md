@@ -1,5 +1,5 @@
 
-[comment]: To know about your Firefox version and build date go to settings-> Mozilla Aurora-> About Auroa.
+[comment]: To know about your Firefox version and build date go to settings-> Mozilla Aurora-> About Aurora.
 
 
 * **Product Name**: 
